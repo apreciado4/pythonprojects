@@ -1,3 +1,7 @@
+"""
+This program downloads a json that returns a list of people currently in the
+International Space Station and prints
+"""
 import json
 # import turtle
 import urllib.request
