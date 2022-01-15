@@ -1,3 +1,7 @@
+"""
+This program creates a game of hangman based off of a list of words already in program
+"""
+
 import random
 
 
